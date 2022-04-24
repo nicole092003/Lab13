@@ -57,5 +57,7 @@ class MyGUI:
 
         tk.mainloop()
 
+    def calculate(arg1)
+        print("I printed, Boss!")
 
-my_gui = MyGUI
+my_gui = MyGUI()
